@@ -1,4 +1,4 @@
-Month;Product;Organic;Type;Land;Cost per unit;Total_cost;Units;Weight;Total_weight
+Month;Product;Category;Organic;Type;Land;Cost per unit;Total_cost;Units;Weight;Total_weight
 1;Bread;;cereals;Sweden;25;175;7;0,6;4,2
 1;Potato;yes;cereals;Sweden;33;33;1;2;2
 1;Polar bread;;cereals;Sweden;18;72;4;0,325;1,3
